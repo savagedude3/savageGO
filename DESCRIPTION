@@ -9,3 +9,17 @@ Description: More about what it does (maybe more than one line)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+Imports: 
+    AnnotationDbi,
+    biomaRt,
+    clusterProfiler,
+    dplyr,
+    enrichplot,
+    ggplot2,
+    GOSemSim,
+    org.Mm.eg.db,
+    RColorBrewer,
+    rrvgo,
+    stats,
+    stringr,
+    tidyr
